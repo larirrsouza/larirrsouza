@@ -1,10 +1,10 @@
 ## Hello world, I'm Larissa!! 
 
-:computer: I'm Tech Recruiter, technology and coffee/beer lover and dog's mommy.
+:computer: I'm Tech Recruiter, coffee and beer lover, I'm dog's mommy.
 
 :house_with_garden: I’m from Brazil, São Paulo.
 
-:books: I’m love learning new things regarding tech.
+:books: I’m enjoy learning new things regarding technology.
 
 :outbox_tray: 2021 Goals: Find a new job and meet new people.
 
