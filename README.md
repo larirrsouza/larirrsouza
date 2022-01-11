@@ -4,9 +4,9 @@
 
 :house_with_garden: I’m from Brazil, São Paulo.
 
-:books: I’m enjoy learning new things regarding technology.
+:books: I’m enjoy learning news about technology and data analysis enthusiastic.
 
-:outbox_tray: 2021 Goals: Find a new job and meet new people.
+:outbox_tray: 2022 Goals: Find a nice job and meet new people.
 
 ## Connect with me:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK_LINKEDIN)](https://www.linkedin.com/in/larissarrsouza/)
